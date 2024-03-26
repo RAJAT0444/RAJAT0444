@@ -35,6 +35,9 @@
   <img width="12" />
 
 </div>
+<br>
+<br>
+<p>Connect with us.</p>
 <hr>
 
 ###
