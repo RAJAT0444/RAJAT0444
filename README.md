@@ -38,7 +38,6 @@
 <br>
 <br>
 <h2>Connect with us.</h2>
-<hr>
 
 ###
 <div align="left">
