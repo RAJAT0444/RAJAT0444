@@ -37,7 +37,7 @@
 </div>
 <br>
 <br>
-<p>Connect with us.</p>
+<h2>Connect with us.</h2>
 <hr>
 
 ###
