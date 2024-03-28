@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN Stack Development<br>🎯 Goals: Launch own startup.<br>🎲 Fun fact: When I'm not coding, you can often find me exploring all things related to technology. Whether it's tinkering with new programming languages, diving into open-source projects, or binge-watching tech talks on YouTube, I find joy in immersing myself in the vast and ever-evolving world of technology.</p>
+<p align="left">📚 I'm currently learning MERN Stack Development<br>🎯 Goals: Launch own MNC.<br>🎲 Fun fact: When I'm not coding, you can often find me exploring all things related to technology. Whether it's tinkering with new programming languages, diving into open-source projects, or binge-watching tech talks on YouTube, I find joy in immersing myself in the vast and ever-evolving world of technology.</p>
 
 ###
 
