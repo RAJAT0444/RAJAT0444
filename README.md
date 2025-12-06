@@ -144,8 +144,8 @@ OpenAI API, Prompt Engineering
 <div align="center" style="margin-top: 20px;">
   
 ### 📧 **Email:** rajatkumar6072@gmail.com
-### 🔗 **Portfolio:** [Add your portfolio link here]
-### 📍 **Based in:** [Add your location]
+### 🔗 **Portfolio:** my-portfolio-blush-xi-51.vercel.app/
+### 📍 **Based in:** Sector 63 Noida
 
 </div>
 
