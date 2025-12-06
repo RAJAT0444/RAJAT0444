@@ -1,42 +1,49 @@
 # 👋 Hello, I'm Rajat Kumar
 
-### MERN Stack Developer | Full Stack Engineer
+### Full Stack Developer | MERN Stack Specialist
 
-Passionate about building scalable web applications with modern technologies. Currently expanding my expertise in full-stack development through hands-on projects and internships.
+Passionate about building scalable, high-performance web applications with modern technologies. Experienced in full-stack development with a focus on React, Next.js, and cloud-native architectures.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on MERN stack projects and expanding my backend expertise
-- 🌱 Learning **Next.js, TypeScript, and System Design**
-- 💼 Completed **Full Stack Development Internship** at **Innovixion Tech**
-- 💼 Completed **Web Development Internship** at **Con-Reach**
-- 🎯 Long-term Goal: Building technology solutions that solve real-world problems
-- ⚡ Fun Fact: When I'm not coding, I enjoy exploring new tech trends, contributing to open-source, and watching tech talks
+I'm a dedicated full-stack developer with hands-on experience in building modern web applications. Through my internships and personal projects, I've developed expertise in both frontend and backend technologies, with a particular focus on performance optimization and security best practices.
+
+- 🔭 Currently working on **Next.js 15** applications with TypeScript
+- 🌱 Learning **Advanced System Design** and **Cloud Architecture**
+- 🎯 Goal: Building scalable SaaS products
+- ⚡ Fun Fact: When I'm not coding, I enjoy exploring new tech trends and contributing to open-source projects
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Others
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -44,7 +51,7 @@ Passionate about building scalable web applications with modern technologies. Cu
 
 <div align="center">
   
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJAT0444&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJAT0444&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAT0444&layout=compact&theme=radical&hide_border=true)
 
@@ -56,37 +63,70 @@ Passionate about building scalable web applications with modern technologies. Cu
 
 ## 💼 Professional Experience
 
-### **Full Stack Development Intern**
-**Innovixion Tech** | *[Add Duration/Dates]*
-- Developed and maintained full-stack web applications using MERN stack
-- Implemented RESTful APIs and integrated third-party services
-- Collaborated with team members using Agile methodologies
-- Contributed to frontend UI development and backend API optimization
+### **Web Developer Intern**
+**Con-Reach** | *Aug 2024 – Jul 2025*
+- Built and optimized responsive web pages using **Next.js, React, and Tailwind CSS**
+- Integrated APIs and **improved page load speed by 40%** through performance optimization
+- Deployed features on **Vercel** with **CI/CD automation** for streamlined development workflows
+- Collaborated with cross-functional teams to implement new features and fix bugs
 
-### **Web Development Intern**
-**Con-Reach** | *[Add Duration/Dates]*
-- Built responsive web interfaces with HTML5, CSS3, and JavaScript
-- Optimized website performance and cross-browser compatibility
-- Assisted in debugging and troubleshooting frontend issues
-- Implemented responsive design principles for mobile-first development
+### **Full-Stack Developer Intern**
+**Innovixion Tech, Noida** | *Oct 2023 – Nov 2023*
+- Developed a **responsive e-commerce frontend** using **React.js and Tailwind CSS**, integrated with **Node.js backend**
+- Built a **secure Password Manager App** with **AES encryption, JWT-based authentication, and local storage**
+- Worked in an **Agile environment**, contributing to **peer code reviews, sprint planning, and CI/CD workflows**
+- Implemented RESTful APIs and database schemas for scalable applications
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-### **Project 1: [Project Name]**
-*Tech: React, Node.js, MongoDB, Express*
-- Brief description of the project
-- Key features implemented
-- [Live Demo](#) | [Source Code](https://github.com/RAJAT0444/)
+### **Connectify – Anonymous Messaging Platform**
+*May 2025 – Jun 2025*
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) • [![Source Code](https://img.shields.io/badge/SOURCE_CODE-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJAT0444/)
+- Developed a **secure full-stack messaging platform** enabling users to send and receive anonymous messages via unique profile links
+- Implemented **JWT-based authentication, NextAuth, and REST APIs** for high security and seamless communication
+- Added features like **QR sharing, message moderation, and dashboard pagination** for enhanced user experience
+- **Tech Stack:** Next.js, TypeScript, MongoDB, Tailwind CSS, Vercel
 
-### **Project 2: [Project Name]**
-*Tech: JavaScript, HTML5, CSS3*
-- Brief description of the project
-- Key features implemented
-- [Live Demo](#) | [Source Code](https://github.com/RAJAT0444/)
+### **Blogify – Full-Stack Blogging Platform**
+*Jun 2025 – Jul 2025*
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) • [![Source Code](https://img.shields.io/badge/SOURCE_CODE-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJAT0444/)
+- Created a **modern blogging platform** supporting blog creation, editing, and deletion with seamless user authentication
+- Integrated a **Markdown-based editor, dynamic routing, and personalized user profiles**
+- Implemented **responsive design** and optimized for performance and SEO
+- **Tech Stack:** Next.js 15, MongoDB, NextAuth, Tailwind CSS, Vercel
 
-*(Add more projects as needed)*
+---
+
+## 🎯 Technical Skills
+
+### **Programming Languages**
+JavaScript (ES6+), TypeScript
+
+### **Frontend Technologies**
+HTML5, CSS3, React.js, Next.js, Tailwind CSS, Bootstrap
+
+### **Backend Technologies**
+Node.js, Express.js, RESTful APIs, API Rate Limiting
+
+### **Databases & ORMs**
+MongoDB, MySQL, Mongoose
+
+### **Authentication & Security**
+NextAuth, JWT, OAuth, AES Encryption
+
+### **Testing & Quality**
+Jest, React Testing Library, Postman, Newman
+
+### **Cloud & Deployment**
+AWS (S3, EC2, RDS), Vercel, Netlify, CI/CD Pipelines
+
+### **DevOps & Tools**
+Git, GitHub, VS Code, Chrome DevTools, npm, Git Bash, ESLint, Prettier
+
+### **AI/ML Technologies**
+OpenAI API, Prompt Engineering
 
 ---
 
@@ -101,13 +141,11 @@ Passionate about building scalable web applications with modern technologies. Cu
 
 </div>
 
----
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   
-### 📧 Email: rajatkumar6072@gmail.com
-### 📞 Phone: [Add your phone number if comfortable]
-### 📍 Location: [Add your location]
+### 📧 **Email:** rajatkumar6072@gmail.com
+### 🔗 **Portfolio:** [Add your portfolio link here]
+### 📍 **Based in:** [Add your location]
 
 </div>
 
@@ -115,7 +153,10 @@ Passionate about building scalable web applications with modern technologies. Cu
 
 <div align="center">
   
-⭐ *Thank you for visiting my profile! Feel free to connect if you want to collaborate on interesting projects.*
+### 🎯 **Open to Opportunities**
+Looking for Full-Stack Developer, MERN Developer, or Frontend Developer roles.
+
+⭐ **Feel free to explore my repositories and connect if you'd like to collaborate!**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RAJAT0444&color=blueviolet&style=flat)
 
